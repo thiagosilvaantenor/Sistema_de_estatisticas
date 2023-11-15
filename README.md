@@ -1,4 +1,4 @@
-# Sistema de estatísticas de transito
+# Sistema de estatísticas
 
 <div align="center">
   
@@ -17,7 +17,7 @@ O objetivo é **criar um sistema de estatisticas de acidentes de transito**.<br>
 ## Índice
 =================
 <!--ts-->
-* [Título](#sistema-de-estatísticas-de-transito)
+* [Título](#sistema-de-estatísticas)
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Índice](#índice)
 * [Classes](#classes)
