@@ -1,4 +1,4 @@
-# Sistema_de_transito
+# Sistema_de_estatísticas_de_transito
 
 <div align="center">
   
@@ -11,13 +11,13 @@
   
 ## Sobre o Projeto
 Projeto em Java da disciplina "Linguagem de Programação", do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste.<br>
-O objetivo é criar um sistema de estatisticas de acidentes de transito.<br> Utilizando da instancia de classe para gerar registros lógicos `(Estatística[])`,<br>para cadastrar e consultar a quantidade de acidentes em cada cidade cadastrada
+O objetivo é **criar um sistema de estatisticas de acidentes de transito**.<br> Utilizando da instancia de classe para gerar registros lógicos `(Estatística[])`,<br>para cadastrar e consultar a quantidade de acidentes em cada cidade cadastrada
 <br>Além de escrever e gerar um arquivo `ArquivoEstatistica.txt` com os dados de cada cidade, utilizando o `BufferWriter e FileWriter`. Também é utilizado o `BufferReader` esse que ira ler o arquivo `ArquivoEstatistica.txt` para executar as consultas. 
 
 ## Índice
 =================
 <!--ts-->
-* [Titutlo](#sistema_de_transisto)
+* [Título](#sistema_de_estatísticas_de_transito)
 * [Sobre o Projeto](#sobre_o_projeto)
 * [Índice](#índice)
 * [Classes](#classes)
