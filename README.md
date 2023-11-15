@@ -17,7 +17,7 @@ O objetivo é **criar um sistema de estatisticas de acidentes de transito**.<br>
 ## Índice
 =================
 <!--ts-->
-* [Título](#sistema_de_estatísticas_de_transito)
+* [Título](#sistema_de_estatisticas_de_transito)
 * [Sobre o Projeto](#sobre_o_projeto)
 * [Índice](#índice)
 * [Classes](#classes)
