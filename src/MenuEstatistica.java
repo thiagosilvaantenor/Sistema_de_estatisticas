@@ -14,7 +14,7 @@ public class MenuEstatistica {
 
     JOptionPane.showMessageDialog(null,"Menu Estatística");
     while(op != 9){
-      op = Integer.parseInt(JOptionPane.showInputDialog("Estatísticas de acidentes em 2020\n1 - Cadastro Estatística\n2 - Consulta por quantidade de acidentes\n3 - Consulta por estatística de acidentes\n4 - Acidentes acima da média das 10 cidades\n9 - Finaliza"));
+      op = Integer.parseInt(JOptionPane.showInputDialog("Estatísticas de acidentes em 2020\n1 - Cadastro Estatística\n2 - Consulta por quantidade de acidentes\n3 - Consulta por estatística de acidentes\n4 - Acidentes acima da média das 10 cidades\n9 - Finalizar"));
         switch(op){
           case 1: m.FCadastraEstatistica(estatistica);
           break;
